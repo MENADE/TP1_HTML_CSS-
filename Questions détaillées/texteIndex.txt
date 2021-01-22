@@ -1,0 +1,9 @@
+Les étapes de développement d’un programme informatique
+L’objectif de la programmation est de trouver une solution informatique à un problème réel.
+Les étapes du processus de développement de cette solution sont :
+l’analyse du problème;
+la conception d’une solution;
+le codage; 
+la traduction du programme en langage machine; 
+le test du programme. 
+Pour tout commentaire, nous écrire.

@@ -1,0 +1,34 @@
+Les étapes de développement d’un programme informatique
+L’analyse du problème : le QUOI
+IL s'agit de lire l’énoncé du problème et tenter de comprendre ce qu'il doit réaliser , c’est à dire:
+identifier les données en entrée; 
+identifier les données en sortie ; 
+identifier les traitements (les calculs, les affichages, les comparaisons…)
+Exemple : Énoncé du problème 1: lire deux nombres et afficher leur somme
+Entrée:
+nombre1, Nombre2 
+Traitement :
+somme=nombre1+ nombre2
+Sortie : 
+somme
+La conception d’une solution : le COMMENT 
+Cela constitue à écrire un algorithme.
+Un algorithme est une suite d’actions à exécuter dans un ordre précis, pour résoudre un problème. L’algorithme représente la structure logique du programme informatique indépendamment du langage de programmation. Il peut être formulé dans un « pseudo langage » aussi appelé « pseudocode » qui est plus restreint et plus précis que le langage naturel, mais ne peut être exécuté par un ordinateur.
+Le pseudo-code utilisé dans les algorithmes renferme quelques mots clés qui servent à exprimer des actions ou des indications comme: Début, Fin algo, Faire, Si..Fin Si, Tant que…Fin Tant que etc. Il peut y avoir plus d’un algorithme pour résoudre un même problème.
+Exemple : Un algorithme du problème 1
+Algorithme somme 
+Debut
+somme, nombre1, nombre2 : entiers
+Lire nombre1 et nombre 2 
+somme= nombre1 + nombre2 
+Afficher somme
+Fin somme
+Le codage (ou programmation)
+C’est la transposition de l’algorithme dans un langage de programmation précis (java, C++, Vb.net...)
+Un langage de programmation est un langage intermédiaire entre l’homme et la machine. Il utilise des mots clés et une syntaxe bien définie.
+La phase d’édition consiste à insérer le texte du programme dans l’ordinateur. Pour réaliser cette opération, nous utiliserons un programme spécial : l’Éditeur de programme. Dans le cadre de ce cours, nous utiliserons l’outil Éclipse pour éditer nos programmes écrits dans le langage Java.
+La traduction du programme en langage machine 
+Cela consiste à traduire en langage machine de bas niveau, soit le binaire, le programme écrit en langage de programmation de haut niveau. Cette traduction est réalisée par l’ordinateur grâce à un autre programme appelé Compilateur ou interpréteur. Exemple le programme javac inclus dans Eclipse. 
+La compilation vérifie la correction de la syntaxe du programme source, puis génère une liste d’erreurs ou un programme exécutable.
+Le test du programme 
+Cette phase permet de vérifier que le programme réalise les résultats escomptés et qu’il ne présente pas de dysfonctionnement. Une batterie de tests doit être préparée pour cette vérification. 

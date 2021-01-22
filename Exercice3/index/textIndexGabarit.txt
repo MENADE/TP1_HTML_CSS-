@@ -1,0 +1,25 @@
+**************menu************************
+Principe et fonctionnement
+Nétiquette
+À propos de nous
+***************contenu************************
+Qu'est-ce que le courrier électronique ou E-mail ?	
+C'est un des services les plus couramment utilisés d'internet permettant d'envoyer des messages sous forme de fichier texte. L'Académie française lui a trouvé le nom de "mél" tandis que les canadiens (plus imaginatifs en règle générale) ont adopté le joli surnom de "courriel". Désormais il est également possible d'utiliser le terme courriel en France.
+Il est nécessaire pour utiliser le courrier électronique d'avoir un accès à Internet ainsi qu'un compte sur un serveur de messagerie (POP3 pour Post Office Protocol que l'on pourrait traduire par "Protocole de bureau de poste") que l'on peut assimiler à la boîte aux lettres dans laquelle vous mettez le courrier que vous envoyez. Pour éviter que tout le monde puisse voir votre courrier, celui-ci est protégé par un nom d'utilisateur appelé login et un mot de passe ( password). 
+Votre adresse électronique est donc un mélange de toutes ces données, elle s'écrit sous la forme : login@serveur.pop (par exemple "jean-francois.pillou@commentcamarche.net") 
+Comment l'ordinateur sait-il où envoyer le message ?
+Le principe de fonctionnement du courrier électronique est celui de la communication asynchrone, c'est-à-dire qu'au nom de domaine du serveur POP est associée une adresse IP (qui correspond en quelque sorte à l'adresse du destinataire que vous écrivez sur votre enveloppe sous la forme prénom - nom - n°rue - ville - pays). Le chemin que suivra le courrier sera celui que choisiront les routeurs. 
+Que peut-on envoyer ?
+N'importe quel fichier peut être envoyé par e-mail (texte, images, liens URL, vidéos), il faudra cependant veiller à ce que le serveur n'ait pas une limitation en taille pour le courrier (certains serveurs n'acceptent pas les messages faisant plusieurs Mo). 
+Utilisation du courrier
+Lorsque vous ouvrez votre logiciel de messagerie (celui avec lequel vous consultez vos messages) un certain nombre de fenêtres (ou de boîtes... suivant votre logiciel) apparaissent (leur nom varie d'un logiciel à l'autre) : 
+Arrivée, Entrée, Boîte de réception (In, Incoming) : c'est là que votre courrier arrive
+
+Éléments envoyés, Boîte d'envoi (Out, Sent) : ce sont les copies des messages que vous avez envoyés	
+Supprimés, Poubelle (Deleted, Trash) : il s'agit de la poubelle, c'est-à-dire des restes de fichiers supprimés	
+Dossiers (Folders) : ce sont des dossiers où vous pouvez classer vos courriers 
+*********************pied de page************************
+Mise en page © 2008 Elephorm et Alsacréations
+contenu provenant du site de CommentCaMarche 
+Dernière modification le 25 novembre 2014
+
